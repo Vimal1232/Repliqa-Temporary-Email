@@ -59,7 +59,7 @@ const page = () => {
       if (Array.isArray(result)) {
         setInbox(result);
       } else {
-        console.log("wrong format", result);
+        console.log("wrong format");
         setInbox([]);
       }
     } catch (error) {
