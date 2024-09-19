@@ -12,7 +12,7 @@ const MainHeader = () => {
           <h1 className=" text-center text-[64px] font-bold font-Manrope leading-[1.2em]  ">
             Safeguard Your Identity in the Digital Age
           </h1>
-          <p className=" text-[20px] font-normal font-Manrope tracking-[-0.2px] leading-[1.2em]">
+          <p className=" text-[20px] font-normal text-center font-Manrope tracking-[-0.2px] leading-[1.2em]">
             "Take charge of your online presence with our intuitive and secure
             platform."
           </p>

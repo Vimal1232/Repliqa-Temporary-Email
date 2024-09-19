@@ -15,20 +15,6 @@ const Navbar = () => {
           </div>
         </Link>
         <div className="flex items-center gap-8">
-          <Link href="/">
-            <div className=" font-Manrope font-light text-[16px] hover:text-PriHov duration-500 ease-in-out cursor-pointer">
-              Home
-            </div>
-          </Link>
-          <div className=" font-Manrope font-light text-[16px] hover:text-PriHov duration-500 ease-in-out cursor-pointer">
-            Features
-          </div>
-          <div className="font-Manrope font-light text-[16px] hover:text-PriHov duration-500 ease-in-out cursor-pointer">
-            Pricing
-          </div>
-          <div className="font-Manrope font-light text-[16px] hover:text-PriHov duration-500 ease-in-out cursor-pointer">
-            Faq
-          </div>
           <div>
             <Signupbutton Name={"Signup"} />
           </div>
