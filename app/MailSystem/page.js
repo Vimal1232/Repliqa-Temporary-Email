@@ -175,7 +175,7 @@ const page = () => {
                   </div>
                 )}
 
-                <div className="relative p-5 overflow-hidden bg-white border border-gray-200 rounded-2xl">
+                <div className="relative p-5  bg-white border border-gray-200 overflow-auto rounded-2xl">
                   <div className="flex items-start sm:items-center">
                     <div className="inline-flex items-center justify-center flex-shrink-0 text-xl font-bold text-white bg-gray-900 w-14 h-14 max-ss:w-8 max-ss:h-8 rounded-xl font-pj">
                       {index + 1}
